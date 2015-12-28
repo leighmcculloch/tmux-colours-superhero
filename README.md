@@ -1,5 +1,5 @@
 # Tmux Colours: Superhero
-A tmux colour theme inspired by primary colours found in @drewolson's [tmux.conf](https://github.com/drewolson/dotfiles) and pane colours in @seebi's [tmux-colors-solarized](https://github.com/seebi/tmux-colors-solarized).
+A tmux colour theme inspired by primary colours found in [drewolson/dotfiles](https://github.com/drewolson/dotfiles) and pane colours in [seebi/tmux-colors-solarized](https://github.com/seebi/tmux-colors-solarized).
 
 ![](README-screenshot.png)
 
